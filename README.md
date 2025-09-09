@@ -13,7 +13,7 @@ This project explores the determinants of residential property prices in Brighto
 - Regression analysis
 
 ## How to Run
-This notebook is designed to be run in **Google Colab**, but can also be run locally in **Jupyter Notebook**. Make sure to download all files from the data folder to the same directory as the notebook, and that all required Python libraries are installed.
+This notebook was made on **Google Colab**, but was made with the assumption it would be cloned in **Jupyter Notebook**. If you want to use Google Colab, all the files in the data file should be uploaded to the session storage, and the file paths in the code should be changed from '../data/{file}' to '{file}', including the .shp file at the end of section 2.3 as well as the file paths at the start of 2.1.
 
 ## Data
 The project uses these datasets:
